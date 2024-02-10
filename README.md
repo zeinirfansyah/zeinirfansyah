@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer, from Indonesia</h1>
+<h1 align="left">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer from Indonesia</h1>
 
 ###
 
