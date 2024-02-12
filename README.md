@@ -1,12 +1,19 @@
-<h1 align="left">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer from Indonesia</h1>
+<img align="left" height="164" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRuaGZwY21qdzl2cWNwbG55ODR6bDd4YjExZmE2cXB1cXFqNTZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
 
 ###
 
-<img align="right" height="139" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRuaGZwY21qdzl2cWNwbG55ODR6bDd4YjExZmE2cXB1cXFqNTZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
+<h1 align="left">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer, from Indonesia</h1>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="31" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="31" alt="laravel logo"  />
@@ -38,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@zeemarimoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="youtube logo"  />
   </a>
@@ -54,4 +61,3 @@
 </div>
 
 ###
-
