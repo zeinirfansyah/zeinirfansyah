@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="right">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer from Indonesia</h1>
+<h1 align="right">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer from Tasikmalaya, Indonesia</h1>
 
 ###
 
