@@ -1,51 +1,14 @@
-<img align="left" height="156" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRuaGZwY21qdzl2cWNwbG55ODR6bDd4YjExZmE2cXB1cXFqNTZibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
+<h1 align="center">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer, from Indonesia</h1>
 
 ###
 
-<h1 align="right">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer from Tasikmalaya, Indonesia</h1>
-
-###
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<div align="right">
-  <img src="https://skillicons.dev/icons?i=react" height="31" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="31" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="31" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="31" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="31" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="31" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="31" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="31" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="31" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="31" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="31" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="31" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="right">
+<div align="center">
   <a href="https://www.youtube.com/@zeemarimoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="youtube logo"  />
   </a>
@@ -59,5 +22,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/zeinirfansyah/zeinirfansyah/output/snake.svg" alt="Snake animation" />
 
 ###
