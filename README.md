@@ -25,6 +25,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zeinirfansyah/zeinirfansyah/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+![Snake animation](https://github.com/zeinirfansyah/zeinirfansyah/blob/output/github-contribution-grid-snake.svg)
 ###
