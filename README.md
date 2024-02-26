@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋! My name is Zein Irfansyah. and I'm a Software Engineer, from Indonesia</h1>
+<h1 align="center">Hai, my name is Zein Irfansyah.</h1>
+<h2 align="center">I'm a Software Engineer, from Indonesia</h2>
+
+<p>I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
+<p>If you find anything I've built interesting, feel free to leave a star on the repository ⭐. You can also connect with me on my socials (listed below) to chat and explore the creative space together!</p>
 
 ###
 
