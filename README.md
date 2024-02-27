@@ -1,5 +1,5 @@
-<h1 align="left">Hai! My name is Zein Irfansyah. I am a Software Engineer from Indonesia</h1>
-
+<h1 align="left">Hai! My name is Zein Irfansyah.</h1>
+<h1 align="left">I am a Software Engineer from Indonesia</h1>
 ###
 
 <p align="left">I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
