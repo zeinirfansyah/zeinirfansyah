@@ -1,4 +1,9 @@
 <h1 align="left">Hai! My name is Zein Irfansyah. <br> I am a Software Engineer from Indonesia.</h1>
+<div algin="left">
+  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank">
+    <h2>Support me 💓</h2>
+  </a>
+</div>
 ###
 
 <p align="left">I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
@@ -69,11 +74,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
-<div algin="left">
-  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank" style="text-decoration: none; font-size: 24px;">
-    Support me 💓
-  </a>
-</div>
+
 
 ###
 
