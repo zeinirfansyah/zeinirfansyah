@@ -68,10 +68,11 @@
   <a href="https://www.linkedin.com/in/zein-irfansyah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
-  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank">
-    <img src="https://img.shields.io/opencollective/sponsors/zen?style=flat-square" height="36" alt="sponsor"  />
+</div>
+<div algin="left">
+  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank" style="text-decoration: none; font-size: 24px;">
+    Support me 💓
   </a>
-
 </div>
 
 ###
