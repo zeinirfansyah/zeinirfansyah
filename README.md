@@ -68,7 +68,9 @@
   <a href="https://www.linkedin.com/in/zein-irfansyah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
-  <script type="text/javascript" src="https://storage.sociabuzz.com/storage/js/main/buttononwebsite/index.min.js"></script><script>sbBoW.draw("zeemarimo","U3VwcG9ydCA","position-bottom-middle","#666666","#FFFFFF")</script>
+  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; cursor: pointer; border-radius: 5px;">
+    Support 💓
+  </a>
 </div>
 
 ###
