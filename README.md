@@ -1,3 +1,4 @@
+###
 <h1 align="left">Hai! My name is Zein Irfansyah. <br> I am a Software Engineer from Indonesia.</h1>
 <div algin="left">
   <h2>
@@ -65,7 +66,14 @@
 
 ###
 
-<div align="left">
+ <div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="133" alt="languages graph"  />
+  </div>
+
+###
+<details>
+  <div align="left">
   <a href="https://www.youtube.com/@zeemarimoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="youtube logo"  />
   </a>
@@ -76,15 +84,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
-
-
-###
-
-<details>
-  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  </div>
 </details>
-
-###
