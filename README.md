@@ -6,12 +6,9 @@
   </a>
     </h2>
 </div>
-###
 
 <p align="left">I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
-<p align="left">If you find anything I've built interesting, feel free to leave a star on the repository ⭐. You can also connect with me on my socials (listed below) to chat and explore the creative space together!</p>
-
-###
+<p align="left">If you find anything I've built interesting, feel free to leave a ⭐Star on the repository. You can also connect with me on my socials (at details section) to chat and explore the creative space together!</p>
 
 <h4 align="left">PRIMARY</h4>
 <div align="left">
@@ -32,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
-###
 
 <h4 align="left">HOBBIES</h4>
 <div align="left">
@@ -63,14 +59,12 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-###
 
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="133" alt="languages graph"  />
   </div>
 
-###
 <details>
   <div align="left">
   <a href="https://www.youtube.com/@zeemarimoo/" target="_blank">
