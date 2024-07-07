@@ -23,6 +23,7 @@
    <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,discordjs,androidstudio,postgres,supabase,figma" />
 </div>
 
+ <hr />
 
  <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
@@ -30,6 +31,7 @@
   </div>
 
 <details>
+   <hr />
   <div align="left">
   <a href="https://www.youtube.com/@zeemarimoo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="youtube logo"  />
