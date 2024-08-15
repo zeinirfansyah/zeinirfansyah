@@ -30,11 +30,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="133" alt="languages graph"  />
   </div>
 
-<details>
-   <hr />
+ <hr />
   <div align="left">
   <a href="https://www.linkedin.com/in/zein-irfansyah/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
 </div>
-</details>
