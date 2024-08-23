@@ -13,21 +13,21 @@
 <h4 align="left">PRIMARY</h4>
 <div align="left">
  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,sequelize,mysql,firebase,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,sequelize,mysql,firebase,git&theme=light" />
   </a>
 </div>
 
 
 <h4 align="left">HOBBIES</h4>
 <div align="left">
-   <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,discordjs,androidstudio,postgres,supabase,figma" />
+   <img src="https://skillicons.dev/icons?i=php,laravel,kotlin,java,discordjs,androidstudio,postgres,supabase,figma&theme=light" />
 </div>
 
  <hr />
 
  <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="133" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeinirfansyah&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=true&order=1" height="133" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zeinirfansyah&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="133" alt="languages graph"  />
   </div>
 
  <hr />
