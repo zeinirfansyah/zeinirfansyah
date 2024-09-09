@@ -1,11 +1,4 @@
 <h1 align="left">Hai! My name is Zein Irfansyah. <br> I am a Fullstack Developer from Indonesia.</h1>
-<div algin="left">
-  <h2>
-  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank">
-    Support me 💓
-  </a>
-    </h2>
-</div>
 
 <p align="left">I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
 <p align="left">If you find anything I've built interesting, feel free to leave a ⭐Star on the repository. You can also connect with me on my socials (at details section) to chat and explore the creative space together!</p>
@@ -74,7 +67,9 @@
 
  <hr />
   <div align="left">
-  <a href="https://www.linkedin.com/in/zein-irfansyah/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
+ <h2>
+  <a href="https://sociabuzz.com/zeemarimo/tribe" target="_blank">
+    Support me 💓
   </a>
+    </h2>
 </div>
