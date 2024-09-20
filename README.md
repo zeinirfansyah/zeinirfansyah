@@ -1,7 +1,7 @@
 <h1 align="left">Hai! My name is Zein Irfansyah. <br> I am a Fullstack Developer from Indonesia.</h1>
 
 <p align="left">I'm Zein Irfansyah, a software engineer hailing from Indonesia. My passions lie at the intersection of code and art, and I'm always up for exploring creative ways to bridge this gap.</p>
-<p align="left">If you find anything I've built interesting, feel free to leave a ⭐Star on the repository. You can also connect with me on my socials (at details section) to chat and explore the creative space together!</p>
+<p align="left">If you find anything I've built interesting, feel free to leave a ⭐Star on the repository.</p>
 
 <h4 align="left">PRIMARY</h4>
 <div align="left">
